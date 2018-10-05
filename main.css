@@ -1,53 +1,48 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-
-
+<style type="text/css">
 * { margin: 0; box-sizing: border-box; } 
 
 body { 
     font-size: 16px; 
     line-height: 32px;
-    font-family:Ubuntu;
-    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
 }
 
 h1 {
-    font: size 20;;
-    color: white;
+    font-size:1.3em;
+    color: yellow;
 }
 
 h2 {
-    font-size: 50;
+    font-size: 1.3em;
     text-align: center;
-    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid rgb(206, 157, 157);
 }
 
 header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
-    max-width:235px;
+    max-width: 650px/;
 }
 
 header, footer, footer a {
     text-align: center;
-    background-color:gray;
+    background-color:  blue ;
     color: whitesmoke;
 }
 
 header img {
-    width:200;
+    width: 399px;
     height: auto;
     float: right;
 }
 
 footer {
-    font: size 20;;
+    font: size 0.5;em;
 }
-
 </style>
 </head>
-
-</body>
 </html>
