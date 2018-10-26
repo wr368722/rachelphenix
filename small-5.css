@@ -13,15 +13,20 @@ main h1{
 
 #logoo{
     position: relative;
-    bottom:200px;
-    left:-120px;
+  margin: auto;
+  width: 200px;
+  top: -150px;
+  left: -880px;
     
 }
 
-#spot{
-     position: relative;
-    bottom:750px;
-    left: 320px;
+#spot h1{
+font-size: 800%;
+margin:auto;
+width:2000px;
+position: relative;
+top:-700px;
+right: -500px;
 }
 
 header h1{
@@ -41,6 +46,7 @@ li{
     display: inline;
     text-decoration: none;
     padding: 20px;
+    margin: auto;
 }
 
 main img{
@@ -129,7 +135,7 @@ margin: auto;
 border: 1px solid black;
 width: 2000px;
 height: 300px;
-margin-top: -400px;
+margin-top: 40px;
 
 }
 
@@ -139,9 +145,15 @@ margin-top: -400px;
     width:500px;
     margin: auto;
     position: relative;
-    top: -300px;
+    top: -500px;
     left: -580px;
 
+}
+#mapmap img{
+    width:800px;
+    left: -600px;
+    height: 200px;
+    top: -300px;
 }
 
 footer{
@@ -155,5 +167,6 @@ footer{
     margin-bottom: 20px;
     margin:auto;
     width: 2000px;
+    margin-top: -1400px;
 }
 
