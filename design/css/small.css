@@ -23,7 +23,7 @@ header h2 {margin: 0; font-weight: normal; font-size: 1rem;}
 
 /*----------- NAVIGATION --------------*/
 nav {
-    background-color: #666;
+    background-color: hotpink;
 }
 nav ul {
     list-style-type: none;
@@ -33,7 +33,7 @@ nav ul {
 
 nav ul li a {
     display: block;
-    color: #eee;
+    color: black;
     padding: .5rem 0;
     text-decoration: none;
     font-size: .9rem;
@@ -42,12 +42,12 @@ nav ul li a {
 
 
 nav ul li a:hover {
-    background-color: #aaa;
-    color: #333;
+    background-color: darkcyan;
+    
 }
 nav ul li.active a {
-    background-color: #000;
-    color: #fff;
+    background-color: darkcyan;
+    color: black;
 }
 /*----------- MAIN --------------*/
 main {
@@ -55,7 +55,13 @@ main {
     min-height: 10rem;
 }
 
+main img {
+    width: 330px;
+}
 
+h1{
+    color: darkcyan;
+}
 /*----------- FOOTER --------------*/
 footer {
     background-color: #ddd;
