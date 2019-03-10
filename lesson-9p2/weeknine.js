@@ -1,4 +1,4 @@
-var townSection = document.querySelector("#townSection");
+var townSection = document.querySelector("#first");
 
 var requestURL = 'https://wr368722.github.io/rachelphenix/lesson-9p2/home.json';
 var request = new XMLHttpRequest();
