@@ -1,0 +1,36 @@
+{
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2018,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "JIMBO JOHN",
+      "secretIdentity" : "Johnothan Jim",
+      "powers" : [
+        "Flight",
+        "Strength",
+        "Positivity"
+      ]
+    },
+    {
+      "name" : "CARING CANDY",
+      "secretIdentity" : "Candace Cooper",
+      "powers" : [
+        "Freezing",
+        "Kindness",
+        "Spped"
+      ]
+    },
+    {
+      "name" : "DORKY DAN",
+      "secretIdentity" : "Donald Draper",
+      "powers" : [
+        "Photographic memory",
+        "Invisability",
+        "Genius",
+      ]
+    }
+  ]
+}
